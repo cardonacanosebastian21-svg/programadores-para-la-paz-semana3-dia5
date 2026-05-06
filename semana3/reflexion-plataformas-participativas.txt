@@ -1,8 +1,8 @@
 Reflexión sobre plataformas participativas – Semana 3 Día 5
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sebastian Cardona Cano
+Fecha: 5 de mayo del 2026
+Nombre de la rama: sebastian_cardona_cano
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -18,4 +18,12 @@ En tu respuesta menciona al menos dos de estas ideas:
 - transparencia
 - responsabilidad digital
 
-Respuesta:
+Respuesta: 
+Debe funcionar como una calle de doble sentido para garantizar el verdadero acceso 
+a la información y la transparencia. Al permitir que los ciudadanos consulten datos, 
+se eliminan las barreras de la duda, sentando las bases de una sólida confianza 
+comunitaria. Sin embargo, la consulta es insuficiente si no se complementa con la 
+recepción de propuestas, permitiendo que la comunidad no solo sea espectadora, sino 
+protagonista de su propio entorno. Este equilibrio asegura que las voces locales sean 
+escuchadas y procesadas formalmente, transformando la tecnología en una herramienta real de 
+transformación social y diálogo democrático.

@@ -1,47 +1,67 @@
 Conceptos básicos de servidor y HTTP – Semana 3 Día 5
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Sebastian Cardona Cano
+Fecha: 5 de mayo del 2026
+Nombre de la rama: sebastian_cardona_cano
 
 Responde con tus propias palabras.
 
 1. ¿Qué es un cliente en la web?
 
-Respuesta:
+Respuesta: es nuestra ventana personal al mundo de internet; 
+sin él, toda la información guardada en los servidores sería 
+solo un montón de código inaccesible.
 
 2. ¿Qué es un servidor?
 
-Respuesta:
+Respuesta: es una computadora (o un sistema de computadoras) 
+de gran potencia que está encendida las 24 horas, los 7 días 
+de la semana, esperando a que un cliente le haga una petición. 
+Su función principal es almacenar datos y "entregarlos" cuando 
+alguien los solicita a través de internet.
 
 3. ¿Qué es HTTP explicado de forma sencilla?
 
-Respuesta:
+Respuesta: es el conjunto de reglas que define cómo se intercambia 
+información en la web. Es como el "manual de modales" que dice 
+exactamente cómo debe pedir las cosas el navegador y cómo debe 
+responder el servidor para que no haya malentendidos.
 
 4. ¿Qué es una request o solicitud?
 
-Respuesta:
+Respuesta: es un paquete de datos que el cliente (tu navegador) 
+envía al servidor para pedirle que realice una acción. No es solo un 
+"dame esto", sino que incluye una serie de instrucciones detalladas 
+para que el servidor no tenga dudas de qué hacer.
 
 5. ¿Qué es una response o respuesta?
 
-Respuesta:
+Respuesta: es la contestación oficial del servidor a una petición 
+previa del cliente. Siguiendo nuestra analogía del restaurante: si 
+la request es la comanda que llega a la cocina, la response es el 
+plato de comida que el mesero pone sobre tu mesa
 
 6. ¿Para qué sirve el método GET?
 
-Respuesta:
+Respuesta: Sirve para "traer" datos. Cada vez que navegas por internet, 
+estás disparando ráfagas de solicitudes GET.
 
 7. ¿Para qué sirve el método POST?
 
-Respuesta:
+Respuesta: se utiliza cuando quieres que el servidor procese datos que 
+tú le estás proporcionando. Es la forma estándar de "escribir" en la web.
 
 8. ¿Qué hace el comando npm start en esta práctica?
 
-Respuesta:
+Respuesta: es el "botón de encendido" del proyecto.
 
 9. ¿Qué mensaje viste al abrir http://localhost:3000?
 
-Respuesta:
+Respuesta: Bienvenida comunidad. SOMOS SUEÑOS EN RUTA
 
 10. ¿Cómo se relaciona un servidor con una plataforma participativa?
 
-Respuesta:
+Respuesta: El servidor es el motor invisible que hace posible que la 
+participación individual se convierta en una experiencia colectiva. 
+Es el punto de encuentro donde todas las voces de los usuarios se procesan 
+y se muestran de vuelta al mundo.
